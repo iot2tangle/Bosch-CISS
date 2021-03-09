@@ -15,7 +15,7 @@ Once you have done this, the device will be "mounted" on your computer. This hap
 #### 1) Copy the repository to the local file system of your computer.
 ```
 cd ~
-git clone https://github.com/iot2tangle/Bosch-CISS.git
+git clone --recursive https://github.com/iot2tangle/Bosch-CISS.git
 cd Bosch-CISS/http-sender
 ```
 #### 2) Edit the file *CISS_Configuration.ini*
