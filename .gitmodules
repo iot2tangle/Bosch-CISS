@@ -1,0 +1,3 @@
+[submodule "http-sender/lib"]
+	path = http-sender/lib
+	url = https://github.com/iot2tangle/core-python-device
